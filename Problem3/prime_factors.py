@@ -1,4 +1,4 @@
-"""primefactors.py: Exercise 3 of project Euler.
+"""prime_factors.py: Exercise 3 of project Euler.
 Calculates the largest prime factor of 600851475143. """
 
 import math
