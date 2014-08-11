@@ -26,8 +26,8 @@ def is_prime_number(number):
 if __name__ == "__main__":
     while I < MAX_NUMBER:
         if is_prime_number(I):
-            TOTAL = TOTAL + I
-        I += 1
+            TOTAL += I
+        I += 2
 
     print "The sum of prime numbers under {0} is {1}".format(MAX_NUMBER, TOTAL)
 
